@@ -1,0 +1,16 @@
+we always analyze worst case while calculating bigO
+
+Arrays:
+
+Look up => O(1) 
+  arrays are fixed and contiguous in memory accessing element through index doesn't require looping and it is very quick
+  
+ 
+insert => 0(n)
+
+     when we need to insert at middle or front we need to do copy and shift operation for all elements.
+     this is costly operation.Copying into new array and increasing and decreasing the size always takes linear time.
+     
+ Delete => 0(n)
+ 
+ same as insert

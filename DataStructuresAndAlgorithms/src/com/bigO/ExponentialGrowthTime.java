@@ -1,4 +1,4 @@
-package com.BigO;
+package com.bigO;
 
 public class ExponentialGrowthTime {
 	

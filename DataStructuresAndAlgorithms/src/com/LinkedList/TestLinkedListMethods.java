@@ -22,7 +22,6 @@ public class TestLinkedListMethods {
 		System.out.println(list.size());
 		list.removeFirst();
 		System.out.println(list.size());
-		System.out.println();
 		
 		//remove Last
 		list.addLast(80);
@@ -36,7 +35,7 @@ public class TestLinkedListMethods {
 		
 		//to array
 		
-		System.out.println(Arrays.toString(list.toArray()));
+		
 		list.reverse();
 		System.out.println(Arrays.toString(list.toArray()));
 		

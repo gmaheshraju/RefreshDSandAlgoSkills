@@ -22,6 +22,7 @@ public class TestLinkedListMethods {
 		System.out.println(list.size());
 		list.removeFirst();
 		System.out.println(list.size());
+		System.out.println();
 		
 		//remove Last
 		list.addLast(80);

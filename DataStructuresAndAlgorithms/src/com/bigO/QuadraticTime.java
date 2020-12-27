@@ -16,6 +16,8 @@ public class QuadraticTime {
 		for (int num : numbers) {
 			for (int second : numbers) {
 				System.out.println(second);
+				//System.out.println(second);
+				//System.out.println(second);
 			}
 			System.out.println(num);
 		}

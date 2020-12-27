@@ -5,7 +5,7 @@ public class SpaceComplexity {
 	public static void main(String[] args) {
 		
 		int[] intArray ={1,10,13,15,17};
-		
+		//space complexity
 		spaceComplexity(intArray);
 		
 	}
